@@ -1,4 +1,4 @@
-I Created this Repo as a part CS699 Software Lab Assignment 3
+I Created this Repo as a part of CS699 Software Lab Assignment 3
 Assignment: Question 1
 Create a git repository of your HTML website (from Assignment 1) and use Git to manage
 its versions.
